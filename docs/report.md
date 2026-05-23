@@ -45,6 +45,8 @@ simple-http-server/
 ├── logs/
 └── docs/
 ```
+UML-диаграмма отражает последовательность обработки HTTP-запроса сервером.
+![alt text](<UML Activity Diagram.png>)
 
 Сервер должен был:
 
